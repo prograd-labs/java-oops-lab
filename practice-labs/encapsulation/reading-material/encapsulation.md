@@ -87,4 +87,7 @@ You can try the above approach under ~ implementation/with-oops/EmployeeOne.java
 </details>
 
 The advantage of the above approach is that, now you can add constraints to your methods, in such a way that ensures that you are not giving any invalid value to any field.
-So, now try giving a negative value to the age field, and try handling this situation.
+So, now try handling the case where you provide a  negative value to the age and salary field.
+
+***NOTE: Handle using Exceptions ~ and return a message as "Invalid Age" and "Invalid Salary", if the values are negative.***
+

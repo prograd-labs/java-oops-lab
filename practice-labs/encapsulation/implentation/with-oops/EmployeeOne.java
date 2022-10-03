@@ -8,6 +8,7 @@ public class EmployeeOne{
     }
 
     public void setName(String name) {
+
         this.name = name;
     }
 
@@ -17,7 +18,7 @@ public class EmployeeOne{
 
     public void setAge(int age) throws Exception {
         if(age<0){
-            throw new Exception("Invalid age");
+            throw new Exception("Invalid Age");
         }
         else{
             this.age = age;
