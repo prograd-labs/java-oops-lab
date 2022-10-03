@@ -3,6 +3,6 @@ public class EmployeeTwo {
     int age;
     int salary;
 
-    
+
 }
 
