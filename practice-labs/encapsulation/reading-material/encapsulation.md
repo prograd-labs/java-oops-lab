@@ -81,8 +81,7 @@ You can try the above approach under ~ implementation/with-oops/EmployeeOne.java
 </details>
 
 <details>
-
-    <summary>Hint 3</summary>
+<summary>Hint 3</summary>
     Once all the methods are created, then you can simply call those methods inside your MainOne.java class.
 
 </details>
