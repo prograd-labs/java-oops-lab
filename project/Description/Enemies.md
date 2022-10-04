@@ -1,7 +1,7 @@
-There were two good friends, Hero and Villain. Both had same interest and same love towards various types of weapons. Both wanted to be the most skillful person ever in handling any weapon.
+There were two good friends, src.Hero and src.Villain. Both had same interest and same love towards various types of weapons. Both wanted to be the most skillful person ever in handling any weapon.
 Both used to practice together and challenge each other. Most of the time the battle used to be on a fun side, but this time it turned out to be a serious one.
-Villain was less skillful than Hero, but still Villain used to win most of the battles, by getting some unfair advantage. Hero being a nice person, never used to compain about this behaviour of Villain.
-But today, he couldn't bear anymore, so Hero challenged Villain for a real fight, with any weapon of their choice.
+src.Villain was less skillful than src.Hero, but still src.Villain used to win most of the battles, by getting some unfair advantage. src.Hero being a nice person, never used to compain about this behaviour of src.Villain.
+But today, he couldn't bear anymore, so src.Hero challenged src.Villain for a real fight, with any weapon of their choice.
 But both having same interest of weapons, unknowingly chose the same weapons - 
 
 - gunOne - damage done = 30
@@ -10,7 +10,7 @@ But both having same interest of weapons, unknowingly chose the same weapons -
 
 The intersting part is that, the only damage that can happen - can only happen through either gunOne or gunTwo, because both are equally good at handling sword or spears.
 
-Villain being Villain -- seeking for some unfair advanage, he thought of wearing an armour inside his clothes. This armour reduces the damage done by each gun by 10 -->
+src.Villain being src.Villain -- seeking for some unfair advanage, he thought of wearing an armour inside his clothes. This armour reduces the damage done by each gun by 10 -->
 
 - gunOne - damage with armour = 20
 - gunTwo - damage with armour = 40

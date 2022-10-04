@@ -1,3 +1,5 @@
+package src;
+
 public class Hero {
     private String name;
     private String weapon;

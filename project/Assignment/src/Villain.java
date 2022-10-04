@@ -1,3 +1,5 @@
+package src;
+
 public class Villain extends Hero {
     private int health;
     private boolean armour;
@@ -44,8 +46,17 @@ public class Villain extends Hero {
         }
     }
 
+
     @Override
     public void heal() {
         super.heal();
+        this.health = 100;
     }
+    public void setHealth(int health) {
+        this.health = health;
+    }
+    public int getHealth() {
+        return this.health;
+    }
+
 }
