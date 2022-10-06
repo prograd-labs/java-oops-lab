@@ -16,3 +16,5 @@ src.Villain being src.Villain -- seeking for some unfair advanage, he thought of
 - gunTwo - damage with armour = 40
 
 Your task is to create a system, where the above senario can be shown. A boiler code is already there for you, in Assignment folder. Just complete that code.
+
+- Add on: Seeing Villain taking this unfair advantage of the shield/armour; our Hero is also planning to make one. But the issue is that - the Hero is not aware of how to make one. So, for now it is an abstract case for him, which for sure he want to make into existence.
